@@ -9,3 +9,5 @@ To run this example, run the following commands from terminal:
 - `npm start` (in a new terminal)
 
 Visit `http://localhost:3000/` to view the app
+
+![](./Screenshot.png)
